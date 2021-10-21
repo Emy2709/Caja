@@ -1,2 +1,1 @@
-# Caja
-Caja
+# Box Class
